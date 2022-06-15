@@ -1,0 +1,13 @@
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.exe
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.deps.json
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.runtimeconfig.json
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.runtimeconfig.dev.json
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.dll
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\bin\Debug\netcoreapp3.1\ChampionsLeagueSimulator.pdb
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.csprojAssemblyReference.cache
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.dll
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.pdb
+C:\Users\MONSTER\source\repos\ChampionsLeagueSimulator\ChampionsLeagueSimulator\obj\Debug\netcoreapp3.1\ChampionsLeagueSimulator.genruntimeconfig.cache
